@@ -1,0 +1,10 @@
+{
+  "url": "http://www.hp.com",
+  "title": "Invalid URL",
+  "h1texts": [
+    {
+      "text": "Invalid URL"
+    }
+  ],
+  "html": "<html><head>\n<title>Invalid URL</title>\n</head><body>\n<h1>Invalid URL</h1>\nThe requested URL \"[no URL]\", is invalid.<p>\nReference #9.2d302b17.1579336419.ecbe6c8\n</p></body></html>\n"
+}

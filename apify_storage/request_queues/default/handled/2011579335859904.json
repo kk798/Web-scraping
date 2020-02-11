@@ -1,0 +1,14 @@
+{
+    "id": "bpn6vBl4RCbrya6",
+    "url": "https://news.ycombinator.com/news?p=2",
+    "loadedUrl": "https://news.ycombinator.com/news?p=2",
+    "uniqueKey": "https://news.ycombinator.com/news?p=2",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {},
+    "handledAt": "2020-01-18T08:24:20.373Z"
+}
